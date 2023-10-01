@@ -1,0 +1,25 @@
+.box{
+    display: flex;
+    height: 500px;
+    width: 500px;
+    top: 300px;
+    position: relative;
+    justify-content: center;
+    background-color: rgb(237, 55, 10);
+}
+
+.passcont {
+    margin-bottom: 20px;
+  }
+  
+  .passin {
+    padding: 30px;
+    width: 200px;
+    font-size: 25px;
+    border: 1px solid #ccc;
+  }
+  
+  .validate-button {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
